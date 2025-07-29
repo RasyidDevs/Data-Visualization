@@ -17,6 +17,7 @@ The primary focus is to:
 - Matplotlib
 - Jupyter Notebook
 
-## Collaboration
+## 🧠Author
+@RasyidDevs
 
 
